@@ -1,5 +1,12 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
+焼却,,,img/moyasu02.svg,#ea3b13
 びん,,,img/bin02.svg,#2dc7aa
+破砕,,,img/moyasanai.svg,#8E1ED3
+粗大,,,img/moyasanai02.svg,#7C3F13
+缶類,,,img/moyasanai.svg,#FCA800
+陶器,,,img/moyasanai.svg,#D6CCC5
+プラ,,,img/shigen.svg,#77ae1f
+雑誌・雑紙,,,img/moyasanai02.svg,#8EB084
+新聞・広告,,,img/moyasanai02.svg,#CECCC7
+ペットボトル類,,,img/shigen02.svg,#A5EFFA
+段ボール,,,img/moyasanai02.svg,#BF9D45
